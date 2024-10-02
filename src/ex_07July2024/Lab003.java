@@ -9,7 +9,7 @@ public class Lab003 {
         // Instructions to Jr QA or Dev
         // explain
 
-        /**
+        /* *
          * Multiple Comment
          * Documentation Purpose
          *
